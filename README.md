@@ -33,3 +33,9 @@ Double - números fracionados, 3,14... -5,45
 True or false
 
 ### Strings
+
+## FUNÇÕES
+
+Main(){} principal função do Dart
+
+A propriedade controller é utilizada para trabalhar com dados do usuário, estilo dados de input (text).
